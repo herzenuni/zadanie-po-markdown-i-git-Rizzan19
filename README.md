@@ -37,6 +37,7 @@
 ### Рейтинг
 
 <p align='center'> Рейтинговые показатели кафедры </p>
+
 #### **Раздел «Учебно — методическое обеспечение образовательного процесса»**
 
 |  №   | Показатели                                                   | 20.05.17-19.09.17 | 20.09.17-19.12.17 | 20.12.17-19.03.18 | 20.03.17-19.05.18 | 20.05.17-19.09.18 | 20.09.18-19.12.18 |
@@ -58,15 +59,6 @@
 
 ### Наши партнеры
 
-
-
-[<img src="https://ict.herzen.spb.ru/user/themes/bootstrap/images/partners/altgpa.png" alt="img" style="zoom: 50%;" />](https://www.altspu.ru/)[<img src="https://ict.herzen.spb.ru/user/themes/bootstrap/images/partners/AMMOSOV.png" alt="img" style="zoom:50%;" />](https://www.s-vfu.ru/)[<img src="https://ict.herzen.spb.ru/user/themes/bootstrap/images/partners/bgarf.png" alt="img" style="zoom:50%;" />](http://www.bgarf.ru/)[<img src="https://ict.herzen.spb.ru/user/themes/bootstrap/images/partners/leti.png" alt="img" style="zoom:40%;" />](https://etu.ru/)[<img src="https://ict.herzen.spb.ru/user/themes/bootstrap/images/partners/MADI.png" alt="img" style="zoom:55%;" />](http://www.madi.ru/)[<img src="https://ict.herzen.spb.ru/user/themes/bootstrap/images/partners/SAFU.png" alt="img" style="zoom:50%;" />](https://narfu.ru/)[<img src="https://ict.herzen.spb.ru/user/themes/bootstrap/images/partners/itmo.png" alt="img" style="zoom:50%;" />](http://www.ifmo.ru/ru/)[<img src="https://ict.herzen.spb.ru/user/themes/bootstrap/images/partners/SPIIRAN.png" alt="img" style="zoom:50%;" />](http://www.spiiras.nw.ru/)[<img src="https://ict.herzen.spb.ru/user/themes/bootstrap/images/partners/computeria.png" alt="img" style="zoom:50%;" />](https://www.computeria.ru/)[<img src="https://ict.herzen.spb.ru/user/themes/bootstrap/images/partners/dvfu.png" alt="img" style="zoom:50%;" />](https://www.dvfu.ru/)[<img src="https://ict.herzen.spb.ru/user/themes/bootstrap/images/partners/makarov.png" alt="img" style="zoom:50%;" />](https://gumrf.ru/)[<img src="https://ict.herzen.spb.ru/user/themes/bootstrap/images/partners/sfu_logo.png" alt="img" style="zoom:60%;" />](http://www.sfu-kras.ru/)[<img src="https://ict.herzen.spb.ru/user/themes/bootstrap/images/partners/sovr_obr_logo.png" alt="img" style="zoom:37%;" />](http://artnw.ru/news-and-events/zhurnal-sovremennoe-obrazovanie-tradicii-i-innovacii/)
-
-
+[СПИИ РАН](http://www.spiiras.nw.ru/), [Северо-Восточного федерального университета им. М.К. Аммосова](https://www.s-vfu.ru/), [Государственный университет морского и речного флота им. адмирала С.О. Макарова](https://gumrf.ru/), [БГА РФ](http://www.bgarf.ru/), [Московский автомобильно-дорожный государственный технический университет](http://www.madi.ru/), [Алтайская государственная педагогическая академия](https://www.altspu.ru/), [Дальневосточный федеральный университет](https://www.dvfu.ru/), [Санкт-Петербургский центр оценки качества образования и информационных технологий](https://rcokoit.ru/), [НОУДДОД «Учебный центр «КОМПЬЮТЕРиЯ»](https://www.computeria.ru/).
 
 <!-- Автор верстки: Владислав Гвоздев -->
-
-
-
-
-
